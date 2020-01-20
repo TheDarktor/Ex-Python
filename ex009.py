@@ -1,0 +1,12 @@
+# EXIBINDO A TABUADA DE UM NÚMERO
+n = int(input('Insira um número: '))
+print('{}*1 é: {}'.format(n, n*1))
+print('{}*2 é: {}'.format(n, n*2))
+print('{}*3 é: {}'.format(n, n*3))
+print('{}*4 é: {}'.format(n, n*4))
+print('{}*5 é: {}'.format(n, n*5))
+print('{}*6 é: {}'.format(n, n*6))
+print('{}*7 é: {}'.format(n, n*7))
+print('{}*8 é: {}'.format(n, n*8))
+print('{}*9 é: {}'.format(n, n*9))
+print('{}*10 é: {}'.format(n, n*10))
